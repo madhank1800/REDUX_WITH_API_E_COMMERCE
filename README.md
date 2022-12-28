@@ -1,3 +1,7 @@
+ # REDUX_WITH_API_E_COMMERCE
+
+## i am building this react app using redux.the data getting through the api and stores in redux store and that data is rendering to the user interface(UI).
+
 
 ![Screenshot (14)](https://user-images.githubusercontent.com/107847151/209776937-c4c911ff-80cb-44cf-a24c-d464a9671e12.png)
 
